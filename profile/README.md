@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Linktree-green?logo=linktree&logoColor=f5f5f5">
   </a>
   <a href="https://www.instagram.com/ucb_compbio/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-pink">
+    <img src="https://img.shields.io/badge/Instagram-pink?logo=instagram">
   </a>
   <a href="https://www.linkedin.com/company/computational-biology-at-berkeley" target="_blank">
     <img src="https://img.shields.io/badge/Linkedin-blue">
