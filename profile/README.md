@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/compbioatberkeley.com-gray">
   </a>
   <a href="https://linktr.ee/compbioatberkeley" target="_blank">
-    <img src="https://img.shields.io/badge/Linktree-green">
+    <img src="https://img.shields.io/badge/Linktree-green?logo=linktree&logoColor=f5f5f5">
   </a>
   <a href="https://www.instagram.com/ucb_compbio/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-pink">
