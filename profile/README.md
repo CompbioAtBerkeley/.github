@@ -1,6 +1,5 @@
 <h1 align="center">Computational Biology at Berkeley</h1>
 
-<!-- Badges - unfortunately not pure markdown due to inability to center -->
 <p align="center">
   <a href="https://compbioatberkeley.com" target="_blank">
     <img src="https://img.shields.io/badge/Official_Site-compbioatberkeley.com-white">
@@ -18,6 +17,8 @@
 
 <!-- FIXME: The linkedin logo should be a bit bigger -->
 
-<p align="center">Hi! This is the official github organization for the UC Berkeley Student Organization Computational Biology @ Berkeley.</p>
+<p align="center">Hi! This is the official GitHub organization for the UC Berkeley Student Organization Computational Biology @ Berkeley.</p>
 
-<p align="center">Computational Biology at Berkeley is a student organization dedicated to bridging the gap between biology and computation. We provide a collaborative environment where students can deepen their knowledge, work on interdisciplinary projects, and connect with leaders in academia and industry.</p>
+<p align="center">We are a student organization dedicated to bridging the gap between biology and computation. We provide a collaborative environment where students can deepen their knowledge, work on interdisciplinary projects, and connect with leaders in academia and industry.</p>
+
+<p align="center"> Check out all our past and current projects here: <a href="https://github.com/Compbio-at-berkeley-projects"> https://github.com/Compbio-at-Berkeley-Projects</a> </p>
