@@ -2,16 +2,16 @@
 
 <p align="center">
   <a href="https://compbioatberkeley.com" target="_blank">
-    <img src="https://img.shields.io/badge/Official_Site-compbioatberkeley.com-white">
+    <img src="https://img.shields.io/badge/Official_Site-compbioatberkeley.com-white" alt="website badge">
   </a>
   <a href="https://linktr.ee/compbioatberkeley" target="_blank">
-    <img src="https://img.shields.io/badge/Linktree-green?logo=linktree&logoColor=f5f5f5">
+    <img src="https://img.shields.io/badge/Linktree-green?logo=linktree&logoColor=f5f5f5" alt="linktree badge">
   </a>
   <a href="https://www.instagram.com/ucb_compbio/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-pink?logo=instagram">
+    <img src="https://img.shields.io/badge/Instagram-pink?logo=instagram" alt="instagram badge">
   </a>
   <a href="https://www.linkedin.com/company/computational-biology-at-berkeley" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logoColor=f5f5f5&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMDAiIGhlaWdodD0iMjAwIiB2aWV3Qm94PSIwIDAgMjQgMjQiIGZpbGw9IiNmZmZmZmYiPjxwYXRoIGZpbGw9IiNmZmZmZmYiIGQ9Ik0xOSAzYTIgMiAwIDAgMSAyIDJ2MTRhMiAyIDAgMCAxLTIgMkg1YTIgMiAwIDAgMS0yLTJWNWEyIDIgMCAwIDEgMi0yaDE0bS0uNSAxNS41di01LjNhMy4yNiAzLjI2IDAgMCAwLTMuMjYtMy4yNmMtLjg1IDAtMS44NC41Mi0yLjMyIDEuM3YtMS4xMWgtMi43OXY4LjM3aDIuNzl2LTQuOTNjMC0uNzcuNjItMS40IDEuMzktMS40YTEuNCAxLjQgMCAwIDEgMS40IDEuNHY0LjkzaDIuNzlNNi44OCA4LjU2YTEuNjggMS42OCAwIDAgMCAxLjY4LTEuNjhjMC0uOTMtLjc1LTEuNjktMS42OC0xLjY5YTEuNjkgMS42OSAwIDAgMC0xLjY5IDEuNjljMCAuOTMuNzYgMS42OCAxLjY5IDEuNjhtMS4zOSA5Ljk0di04LjM3SDUuNXY4LjM3aDIuNzdaIi8+PC9zdmc+">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logoColor=f5f5f5&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMDAiIGhlaWdodD0iMjAwIiB2aWV3Qm94PSIwIDAgMjQgMjQiIGZpbGw9IiNmZmZmZmYiPjxwYXRoIGZpbGw9IiNmZmZmZmYiIGQ9Ik0xOSAzYTIgMiAwIDAgMSAyIDJ2MTRhMiAyIDAgMCAxLTIgMkg1YTIgMiAwIDAgMS0yLTJWNWEyIDIgMCAwIDEgMi0yaDE0bS0uNSAxNS41di01LjNhMy4yNiAzLjI2IDAgMCAwLTMuMjYtMy4yNmMtLjg1IDAtMS44NC41Mi0yLjMyIDEuM3YtMS4xMWgtMi43OXY4LjM3aDIuNzl2LTQuOTNjMC0uNzcuNjItMS40IDEuMzktMS40YTEuNCAxLjQgMCAwIDEgMS40IDEuNHY0LjkzaDIuNzlNNi44OCA4LjU2YTEuNjggMS42OCAwIDAgMCAxLjY4LTEuNjhjMC0uOTMtLjc1LTEuNjktMS42OC0xLjY5YTEuNjkgMS42OSAwIDAgMC0xLjY5IDEuNjljMCAuOTMuNzYgMS42OCAxLjY5IDEuNjhtMS4zOSA5Ljk0di04LjM3SDUuNXY4LjM3aDIuNzdaIi8+PC9zdmc+" alt="linkedin badge">
   </a>
 </p>
 
