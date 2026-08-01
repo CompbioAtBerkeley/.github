@@ -1,8 +1,8 @@
 <h1 align="center">Computational Biology at Berkeley</h1>
 
 <p align="center">
-  <a href="https://compbioatberkeley.com" target="_blank">
-    <img src="https://img.shields.io/badge/Official_Site-compbioatberkeley.com-white" alt="website badge">
+  <a href="[https://compbioatberkeley.com](https://compbioatberkeley.github.io/)" target="_blank">
+    <img src="https://img.shields.io/badge/Official_Site-compbioatberkeley-white" alt="website badge">
   </a>
   <a href="https://linktr.ee/compbioatberkeley" target="_blank">
     <img src="https://img.shields.io/badge/Linktree-green?logo=linktree&logoColor=f5f5f5" alt="linktree badge">
